@@ -1,0 +1,65 @@
+[
+    {
+        "id":"1",
+        "name":"Male Kids Shoe",
+        "price":"7,500.00",
+        "descibe":"Red Male Kid Shoe for all occasions",
+        "image":"/img/child1.png"
+    },
+    {
+        "id":"2",
+        "name":"Mikckey Kids Shoe",
+        "price":"12,300.00",
+        "descibe":"Micky Mouse Kid Shoe for all occasion",
+        "image":"/img/child2.png"
+    },
+    {
+        "id":"3",
+        "name":"Wine Jordan",
+        "price":"15,700.00",
+        "descibe":"Wine Jordan Shoe with white sole prefarably for male",
+        "image":"/img/sniker2.png"
+    },
+    {
+        "id":"4",
+        "name":"Blue Nike Sniker",
+        "price":"20,500.00",
+        "descibe":"Blue Nike Sniker for any gender and prefarably for sports",
+        "image":"/img/sniker1.png"
+    },
+    {
+        "id":"5",
+        "name":"Black Nike Sniker",
+        "price":"24,500.00",
+        "descibe":"Black Nike Sniker for any gender and prefarably for sports",
+        "image":"/img/sniker3.png"
+    },
+    {
+        "id":"6",
+        "name":"Brown Male Formal Shoe",
+        "price":"73,500.00",
+        "descibe":"BrownFromal Male Shoe",
+        "image":"/img/formal1.png"
+    },
+    {
+        "id":"7",
+        "name":"Black Male Formal Shoe",
+        "price":"73,500.00",
+        "descibe":"Black Fromal Male Shoe",
+        "image":"/img/formal2.png"
+    },
+    {
+        "id":"8",
+        "name":"Red Female Shoe",
+        "price":"34,000.00",
+        "descibe":"Red Female Heeled Shoe",
+        "image":"/img/heel1.png"
+    },
+    {
+        "id":"9",
+        "name":"Yellow Female Shoe",
+        "price":"34,000.00",
+        "descibe":"Yellow Female Heeled Shoe",
+        "image":"/img/heel2.png"
+    }
+]
