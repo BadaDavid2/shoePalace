@@ -106,11 +106,12 @@ const Add = styled.div`
   border-radius: 4px;
 `
 const Input = styled.input`
-  margin: auto !important;
-  width: 75%;
+  width: 50%;
   height: 35px;
   outline: none;
   padding: 0px 10px;
   border: 1px solid gray;
+  display: block;
+  margin: auto;
   border-radius: 5px;
 `
