@@ -35,7 +35,7 @@ const Container = styled.div`
     padding-top: 15vh;
 `
 const Title = styled.h2`
-    text-align: center;
+    text-align: center !important;
     font-weight: 500;
     text-transform: uppercase;
 `
@@ -51,6 +51,9 @@ const Card = styled.div`
     display:flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    @media screen and (max-width:700px){
+        display: block;
+    }
 `
 const Image = styled.div`
     background-color: white;
